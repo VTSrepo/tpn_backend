@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c026f3c6.css",
+    "main.js": "/static/js/main.26ec0b79.js",
+    "static/media/tpn logo.png": "/static/media/tpn logo.a45c5af662bb60b3f187.png",
+    "index.html": "/index.html",
+    "main.c026f3c6.css.map": "/static/css/main.c026f3c6.css.map",
+    "main.26ec0b79.js.map": "/static/js/main.26ec0b79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c026f3c6.css",
+    "static/js/main.26ec0b79.js"
+  ]
+}
